@@ -90,5 +90,3 @@
       alert(incorrectString);
     }
 
-
-

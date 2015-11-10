@@ -1,3 +1,6 @@
+body {background-color: grey;
+
+}
 h1 {
   font-size: 37px;
   font-weight: bold;
@@ -6,13 +9,22 @@ h1 {
   text-align: center;
   background-color: pink;
   font-family: times;
+  padding :inherit;
 }
 h2 {
-  font-size: 27px;
+  font-size: 30px;
   text-align: center;
-  color: navy;
-  font-family: italic;
+  color: orange;
+  font-family: ;
 }
-h3 kate {
-  background-image:
+h3 {
+  text-align: center;
+  font-family: Tahoma, Geneva, sans-serif;
 }
+ol {
+  text-align: center;
+  font-size: 27px;
+}
+
+
+
