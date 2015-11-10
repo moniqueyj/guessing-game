@@ -1,4 +1,4 @@
-    var name=prompt('what is your name?');
+    var name=prompt('What is your name?');
     alert('Nice to meet you'+' '+name);
 
     var answers = ["yes", "yes", "yes","36","yes","8"];
