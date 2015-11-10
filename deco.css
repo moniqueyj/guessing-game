@@ -2,6 +2,7 @@ body {background-color: grey;
 
 }
 h1 {
+  border-radius: 50% black
   font-size: 37px;
   font-weight: bold;
   line-height: 200%;
@@ -10,6 +11,9 @@ h1 {
   background-color: pink;
   font-family: times;
   padding :inherit;
+}
+body {
+  border: 3em solid purple;
 }
 h2 {
   font-size: 30px;
@@ -21,10 +25,12 @@ h3 {
   text-align: center;
   font-family: Tahoma, Geneva, sans-serif;
 }
-ol {
+p {
+  
   text-align: center;
   font-size: 27px;
 }
+
 
 
 
