@@ -89,4 +89,9 @@
       }
       alert(incorrectString);
     }
+function endingFunction(){
+document.getElementById("ending").innerHTML ="See you next time again!";
+}
+
+
 
